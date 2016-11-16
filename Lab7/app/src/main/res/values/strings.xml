@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab 7</string>
+    <string name="url">Place URl Here</string>
+    <string name="search">Search</string>
+    <string name="next">Next</string>
+    <string name="newTab">New Tab</string>
+    <string name="previous">Previous</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
